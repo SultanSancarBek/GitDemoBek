@@ -3,4 +3,4 @@ Demo App for GitCourse
 
 ## Roadmap
 * Add new features
-* Fix the bug
+* Fix the pending bugs completely
