@@ -18,6 +18,13 @@ Demo App for GitCourse
 14. git branch -d bug-00-branch-name
 
 ## How to work with Open Source
+1. Talk to repo owner
+2. Fork the repo
+3. Clone locally
+4. Create branch & work
+5. Stage & commit changes
+6. Go to open source and create PR
+7. Sync origin main with open source repo once PR merged
 
 ## Roadmap
 * Add new features
