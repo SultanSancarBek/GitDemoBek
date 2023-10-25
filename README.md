@@ -17,6 +17,8 @@ Demo App for GitCourse
 13. git push origin main
 14. git branch -d bug-00-branch-name
 
+## How to work with Open Source
+
 ## Roadmap
 * Add new features
 * Fix the pending bugs completely
